@@ -20,11 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create resource groups and Virtual Machine you want the os ticket software on
+- install/ enable IIS in windows, and install web platform installer 
+- Located my SQL 5.5 from webplatform installer ask well as all versions of PHP Version 7.3.8
+- PHP Manager 1.5.0 for IIS 10 ,install Visual C++ 2009 from links provided
+- Download os ticket and tweak files  that are required for Os ticket
 
 <h2>Installation Steps</h2>
 
